@@ -1,4 +1,4 @@
-Hangman
+# Hangman
 
 A command-line game of Hangman!
 Hangman is a word-guessing game where one guesses letters one by one.
